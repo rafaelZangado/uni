@@ -1,0 +1,151 @@
+{
+	"ArrayOfClasses": {
+		"Classes": [
+			{
+				"Ordem": "10000",
+				"Nome": "Acessorios",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10001",
+				"Nome": "Automação",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10002",
+				"Nome": "All in One",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10003",
+				"Nome": "Energia",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10004",
+				"Nome": "Impressoras",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10005",
+				"Nome": "Notebook",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10006",
+				"Nome": "Assistencia",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10007",
+				"Nome": "Redes",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10008",
+				"Nome": "Tablets",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10009",
+				"Nome": "Telefonia",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10010",
+				"Nome": "Perifericos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10013",
+				"Nome": "Software",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10019",
+				"Nome": "Cadeiras",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10040",
+				"Nome": "Audio",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10041",
+				"Nome": "Gamer",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10042",
+				"Nome": "Hardware",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10043",
+				"Nome": "Segurança",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10044",
+				"Nome": "Monitores",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10048",
+				"Nome": "Solar",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10062",
+				"Nome": "Consoles",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10083",
+				"Nome": "Gabinetes",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10110",
+				"Nome": "Projetores",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10111",
+				"Nome": "Suprimentos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10112",
+				"Nome": "Tv",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10114",
+				"Nome": "Outros",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10115",
+				"Nome": "Cuidados Pessoais",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10117",
+				"Nome": "Uso interno",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10118",
+				"Nome": "Material de Marketing",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10119",
+				"Nome": "Serviços",
+				"Inativo": "false"
+			}
+		]
+	}
+}

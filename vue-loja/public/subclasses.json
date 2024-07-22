@@ -1,0 +1,886 @@
+{
+	"ArrayOfSubclasses": {
+		"Subclasses": [
+			{
+				"Ordem": "9999",
+				"Nome": "Outras",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10000",
+				"Nome": "Acessorios para celular",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10001",
+				"Nome": "Acessórios para Pc / Not",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10002",
+				"Nome": "Adaptadores",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10003",
+				"Nome": "All In One",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10004",
+				"Nome": "Assistencia",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10005",
+				"Nome": "Automação",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10006",
+				"Nome": "Bobina",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10007",
+				"Nome": "Cabos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10008",
+				"Nome": "Cadeiras",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10009",
+				"Nome": "Caixa de Som",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10010",
+				"Nome": "Calculadoras",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10011",
+				"Nome": "Camera de Ação",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10012",
+				"Nome": "Cartão de Memória",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10013",
+				"Nome": "Cartuchos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10014",
+				"Nome": "Celulares",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10015",
+				"Nome": "Consoles",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10016",
+				"Nome": "Controles",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10017",
+				"Nome": "Conversores",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10018",
+				"Nome": "Cooler",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10019",
+				"Nome": "Cuidados pessoais",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10020",
+				"Nome": "Desktop",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10021",
+				"Nome": "Diversos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10022",
+				"Nome": "DVD PLAY",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10023",
+				"Nome": "Energia Solar",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10024",
+				"Nome": "Estabilizadores",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10025",
+				"Nome": "Fibra",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10026",
+				"Nome": "Filtro de Linha",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10027",
+				"Nome": "Fone de Ouvido",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10028",
+				"Nome": "Fonte",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10029",
+				"Nome": "Gabinete",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10030",
+				"Nome": "Gravadora",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10031",
+				"Nome": "HD",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10032",
+				"Nome": "Impressora",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10033",
+				"Nome": "Jogos",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10034",
+				"Nome": "Leitor de Cartão",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10035",
+				"Nome": "Material de MKT",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10036",
+				"Nome": "Memória",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10037",
+				"Nome": "Mesa",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10038",
+				"Nome": "Mesa Digitalizadora",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10039",
+				"Nome": "Microfone",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10040",
+				"Nome": "Mobilidade",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10041",
+				"Nome": "Módulo Isolador",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10042",
+				"Nome": "Monitor",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10043",
+				"Nome": "Mouse",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10044",
+				"Nome": "Mouse Pad",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10045",
+				"Nome": "Netbook",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10046",
+				"Nome": "NoBreak",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10047",
+				"Nome": "Notebook",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10048",
+				"Nome": "Papéis",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10049",
+				"Nome": "Pen Drive",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10050",
+				"Nome": "Pilhas",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10051",
+				"Nome": "Placa de Vídeo",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10052",
+				"Nome": "Placa Mãe",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10053",
+				"Nome": "Processador",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10054",
+				"Nome": "Projetor",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10055",
+				"Nome": "Redes",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10056",
+				"Nome": "Refil",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10057",
+				"Nome": "Scanner de Mesa",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10058",
+				"Nome": "Segurança",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10059",
+				"Nome": "Servidor",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10060",
+				"Nome": "Smart Home",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10061",
+				"Nome": "Smartphones",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10062",
+				"Nome": "Software",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10063",
+				"Nome": "SSD",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10064",
+				"Nome": "Tablet",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10065",
+				"Nome": "Tapete",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10066",
+				"Nome": "Teclado",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10067",
+				"Nome": "Tela de Projeção",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10068",
+				"Nome": "Telefonia",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10069",
+				"Nome": "Toners",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10070",
+				"Nome": "TV",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10071",
+				"Nome": "Uso e Consumo",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10072",
+				"Nome": "Wearable",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10073",
+				"Nome": "Webcam",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10074",
+				"Nome": "Cameras",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10075",
+				"Nome": "Desktop",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10076",
+				"Nome": "Consoles",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10077",
+				"Nome": "Telefonia IP",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10078",
+				"Nome": "Acessórios Gamer",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10079",
+				"Nome": "Capas",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10080",
+				"Nome": "Suporte para TV",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10081",
+				"Nome": "Tablet",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10082",
+				"Nome": "Notebook",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10083",
+				"Nome": "Calculadoras",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10084",
+				"Nome": "Papéis",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10085",
+				"Nome": "Antivirus",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10086",
+				"Nome": "Sistema Operacional",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10087",
+				"Nome": "Sistema de Gestão",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10088",
+				"Nome": "Tela de Notebook",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10089",
+				"Nome": "Limpeza e Tratamento",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10090",
+				"Nome": "Aplicativo",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10091",
+				"Nome": "Scanner de Mesa",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10092",
+				"Nome": "Gerenciamento Térmico",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10093",
+				"Nome": "Ferramentas Manuais",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10094",
+				"Nome": "Selagem e Vedação",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10095",
+				"Nome": "Abraçadeira",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10096",
+				"Nome": "Som Automotivo",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10097",
+				"Nome": "GPS Automotivo",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10098",
+				"Nome": "Canetas",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10099",
+				"Nome": "Mesa Notebook",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10100",
+				"Nome": "Geladeira",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10101",
+				"Nome": "Uso interno",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10102",
+				"Nome": "All In One",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10103",
+				"Nome": "Placas USB",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10104",
+				"Nome": "Binóculos e Telescópio",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10105",
+				"Nome": "Jogos",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10106",
+				"Nome": "Películas",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10107",
+				"Nome": "Placas Seriais",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10108",
+				"Nome": "Suporte Veicular",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10109",
+				"Nome": "Conversores",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10110",
+				"Nome": "Impressora Termica",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10111",
+				"Nome": "Cabo DVI",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10112",
+				"Nome": "Fitas Matriciais",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10113",
+				"Nome": "Drones",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10114",
+				"Nome": "Cabo Óptico",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10115",
+				"Nome": "OTG",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10116",
+				"Nome": "Plotter",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10117",
+				"Nome": "Servidores",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10118",
+				"Nome": "Microfone",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10119",
+				"Nome": "Base Notebooks",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10120",
+				"Nome": "Skate Elétrico",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10121",
+				"Nome": "Smart TV BOX",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10122",
+				"Nome": "DVR Stand Alone",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10123",
+				"Nome": "Pacote Office",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10124",
+				"Nome": "Alicate de Crimpagem",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10125",
+				"Nome": "Fita Led",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10126",
+				"Nome": "Cadeiras Gamer",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10127",
+				"Nome": "Cooler",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10128",
+				"Nome": "Leitor Biometrico Digital",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10129",
+				"Nome": "Produto Usado",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10130",
+				"Nome": "BOBINA",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10131",
+				"Nome": "FRAGMENTADORA",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10132",
+				"Nome": "Apoio Suporte",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10133",
+				"Nome": "Material Escritório",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10134",
+				"Nome": "Marketing",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10135",
+				"Nome": "Memory Card",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10136",
+				"Nome": "PASTA TERMICA",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10137",
+				"Nome": "MP3",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10138",
+				"Nome": "SKIN",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10139",
+				"Nome": "Relogios",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10140",
+				"Nome": "TRAVA DE NOTEBOOK",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10141",
+				"Nome": "TESTADOR",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10142",
+				"Nome": "TOMADA",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10143",
+				"Nome": "PULSEIRA",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10144",
+				"Nome": "PROTETOR DE REDE",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10145",
+				"Nome": "Dock",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10146",
+				"Nome": "CONSUMO",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "10147",
+				"Nome": "GAVETA INTERNA",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "10148",
+				"Nome": "Patinete Eletrico",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11148",
+				"Nome": "RACK",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11149",
+				"Nome": "Balança",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11150",
+				"Nome": "Suporte para Celular",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11151",
+				"Nome": "Switch",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11152",
+				"Nome": "Telefone rural",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11153",
+				"Nome": "Suporte para Note",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11154",
+				"Nome": "Provedor",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11155",
+				"Nome": "Cabos de Rede",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11156",
+				"Nome": "Provedor",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11157",
+				"Nome": "Cabo de Audio",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11158",
+				"Nome": "Kindle",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11159",
+				"Nome": "Suporte Gamer",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11160",
+				"Nome": "Mesa Digitalizadora",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11161",
+				"Nome": "Conectores",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11162",
+				"Nome": "Tapete para cadeira Gamer",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11163",
+				"Nome": "Escritorio",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11164",
+				"Nome": "Barbeador Eletrico",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11165",
+				"Nome": "Cabo DisplayPort",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11166",
+				"Nome": "Energia Solar",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11167",
+				"Nome": "Estrutura Solar",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11168",
+				"Nome": "USO INTERNO",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11169",
+				"Nome": "Eletrica",
+				"Inativo": "true"
+			},
+			{
+				"Ordem": "11170",
+				"Nome": "Acessorios para Tv",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "11171",
+				"Nome": "Acessorios Mavint",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "11172",
+				"Nome": "Soundbar",
+				"Inativo": "false"
+			},
+			{
+				"Ordem": "11173",
+				"Nome": "Frete",
+				"Inativo": "false"
+			}
+		]
+	}
+}
